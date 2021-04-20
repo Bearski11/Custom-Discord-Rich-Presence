@@ -6,7 +6,7 @@
 
 Make sure you have Python installed and a text editor fill in all the things that are needed. Now your probably wondering about why its not working well your going to have to go [here](https://discord.com/developers/applications), now create an application and paste the client ID into the client ID area in the code.
 
-## Dependencys
+## Dependencies
 
 Install pypresence
 ```

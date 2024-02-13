@@ -1,6 +1,4 @@
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
-![Twitter Follow](https://img.shields.io/twitter/follow/Bearski%20Or%20Shadow?color=%231da1f2&label=Follow%20%40Bearski&?logo=Twitter&style=for-the-badge)
-![Discord](https://img.shields.io/discord/740280252072198184?color=7289DA&label=Discord&logo=Discord&style=for-the-badge)
 
 ## Getting Started
 
